@@ -12,3 +12,7 @@ def divide(x,y):
 
 def square(x):
     pass
+
+def negative(x):
+    if x > 0:
+        return -x
