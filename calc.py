@@ -16,3 +16,6 @@ def square(x):
 def desplay(x):
     return x
 
+def negative(x):
+    if x > 0:
+        return -x
